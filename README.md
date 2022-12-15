@@ -1,12 +1,12 @@
 # Sign-Language-To-Text-Conversion
 
-# Abstract
+## Abstract
 
 Sign language is one of the oldest and most natural form of language for communication, but since most people do not know sign language and interpreters are very difficult to come by we have come up with a real time method using neural networks for fingerspelling based american sign language.
 
 In this method, the hand is first passed through a filter and after the filter is applied the hand is passed through a classifier which predicts the class of the hand gestures. This method provides 98.00 % accuracy for the 26 letters of the alphabet.
 
-# Project Description
+## Project Description
 
 American sign language is a predominant sign language Since the only disability D&M people have is communication related and they cannot use spoken languages hence the only way for them to communicate is through sign language.
 
@@ -28,14 +28,14 @@ The gestures I trained are as given in the image below.
 
 ![ss](https://user-images.githubusercontent.com/94343636/207827546-0c2edc00-7169-4db2-9a09-288f6710292a.jpg)
 
-# Steps of Building this Project
+## Steps of Building this Project
 
 - The first Step of building this project was of creating the folders for storing the training and testing data. As, in this project I have built my own dataset.
 - The second step, after the folder creation is of creating the training and testing dataset.
 - After the creation of the training and testing data. The third step is of creating a model for training. Here, I have used Convolutional Neural Network(CNN) for building this model.
 - The final step after the model has been trained is of creating a GUI that will be used to convert Sings into text and form sentence, which would be helpful for communicating with D&M people.
 
-# Libraries Requirements -(Requires the latest pip version to install all the packages)
+## Libraries Requirements -(Requires the latest pip version to install all the packages)
 
 ```
 1. Lastest pip -> pip install --upgrade pip
