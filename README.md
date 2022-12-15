@@ -37,7 +37,7 @@ The gestures I trained are as given in the image below.
 
 # Libraries Requirements -(Requires the latest pip version to install all the packages)
 
-'''
+```
 1. Lastest pip -> pip install --upgrade pip
 
 2. numpy -> pip install numpy
@@ -60,5 +60,5 @@ The gestures I trained are as given in the image below.
 10. enchant -> pip install pyenchant (Python bindings for the Enchant spellchecking system)
 
 11. hunspell -> pip install cyhunspell (A wrapper on hunspell for use in Python)
-'''
+```
 
