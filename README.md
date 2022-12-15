@@ -62,3 +62,9 @@ The gestures I trained are as given in the image below.
 11. hunspell -> pip install cyhunspell (A wrapper on hunspell for use in Python)
 ```
 
+## Download the Dataset from here
+
+```
+
+```
+
